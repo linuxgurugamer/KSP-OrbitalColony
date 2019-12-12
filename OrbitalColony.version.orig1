@@ -8,19 +8,13 @@
   },
   "VERSION": {
     "MAJOR": 1,
-    "MINOR": 1,
-    "PATCH": 0,
+    "MINOR": 0,
+    "PATCH": 3,
     "BUILD": 0
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 8,
-    "PATCH": 0
-  },
-  "INSTALL_LOC_1": {
-    "NAME": "OrbitalColony",
-    "PATH": "",
-    "DIRECTORY": "OrbitalColony",
-    "FILE": "OrbitalColony.version"
+    "MINOR": 4,
+    "PATCH": 1
   }
 }

@@ -1,5 +1,8 @@
 # Changelog
 
+1.1.0
+	Updated for KSP 1.8
+
 1.0.3
 	Added CLS info to passable truss segments
 	Fixed some typos in configs
