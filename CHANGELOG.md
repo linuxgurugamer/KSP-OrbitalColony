@@ -1,5 +1,8 @@
 # Changelog
 
+1.1.0.1
+	Updated .version file
+
 1.1.0
 	Updated for KSP 1.8
 
